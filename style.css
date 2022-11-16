@@ -9,7 +9,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: #E5E6DD;
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Dosis', sans-serif;
 	font-size: 13px;
 	color: #8A8985;
 }
@@ -52,7 +52,7 @@ a:hover {
 
 #wrapper {
 	overflow: hidden;
-	background: #F1F2E9;
+	background: #000000;
 }
 
 .container {
@@ -118,7 +118,7 @@ a:hover {
 	overflow: hidden;
 	height: 52px;
 	margin-bottom: 2em;
-	background: #000000;
+	background: #FFFFFF;
 }
 
 #menu {
@@ -148,7 +148,7 @@ a:hover {
 	font-family: 'Oswald', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
-	color: #FFFFFF;
+	color: #000000;
 }
 
 #menu a:hover, #menu .current_page_item a {
@@ -236,6 +236,7 @@ a:hover {
 .box-style {
 	background: #FFFFFF;
 	text-align: center;
+	border-radius: 25px;
 }
 
 .box-style h2 {
